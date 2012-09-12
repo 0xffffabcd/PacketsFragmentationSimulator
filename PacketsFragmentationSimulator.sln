@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacketsFragmentationSimulator", "PacketFragmenter\PacketsFragmentationSimulator.csproj", "{01B3DBC8-9A25-4A04-A7DC-94DBC2964CDD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{992E8533-4D98-4828-A5EC-4128023706DA}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01B3DBC8-9A25-4A04-A7DC-94DBC2964CDD}.Debug|x86.ActiveCfg = Debug|x86
+		{01B3DBC8-9A25-4A04-A7DC-94DBC2964CDD}.Debug|x86.Build.0 = Debug|x86
+		{01B3DBC8-9A25-4A04-A7DC-94DBC2964CDD}.Release|x86.ActiveCfg = Release|x86
+		{01B3DBC8-9A25-4A04-A7DC-94DBC2964CDD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
