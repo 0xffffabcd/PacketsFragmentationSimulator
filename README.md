@@ -15,5 +15,5 @@ Fonctionnalités:
 * Calcul du déplacement, longueur, et préservation du bit MF
 
 ---
-###### Programme crée par [Nacereddine HOURIA](nacereddine.h@gmail.com)
+###### Programme crée par [Nasreddine HOURIA](nasreddine.houria@gmail.com)
 ###### Icon du programme provient du [Crystal Project](http://www.iconfinder.com/browse/iconset/crystalproject/#readme), Copyright (c) 2006-2007 [Everaldo Coelho](http://www.everaldo.com/) sous licence LGPL.
